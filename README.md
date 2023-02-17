@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raghuram Sirigiri
 - 👀 I’m interested in the use of Machine learning in web applications
-- 🌱 I’m currently learning UI design
+- 🌱 I know a bit of UI design as well 
 - 📫 How to reach me raghuram9758@gmail.com
 
 <!---
