@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghuramsirigiri
+- 👋 Hi, I’m raghuram Sirigiri
 - 👀 I’m interested in the use of Machine learning in web applications
 - 🌱 I’m currently learning UI design
 - 📫 How to reach me raghuram9758@gmail.com
