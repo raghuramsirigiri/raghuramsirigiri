@@ -8,6 +8,7 @@ raghuramsirigiri/raghuramsirigiri is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 This github is my attempt to figure some of it and share my knowledge
-
+<!-- 
 [![ReadMe Card](https://github.com/raghuramsirigiri/TOTP-HOTP-app)](https://github.com/raghuramsirigiri/TOTP-HOTP-app)
 [![ReadMe Card](https://github.com/raghuramsirigiri/webuathn)](https://github.com/raghuramsirigiri/webuathn)
+ -->
