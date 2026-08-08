@@ -15,5 +15,10 @@ A product data scientist analyzes user journeys, defines core KPIs, and designs 
 - **Machine Learning:** Predictive Modeling, Customer Segmentation Machine Learning, Classification, Regression
 - **Data & Visualization:** Python (Pandas, Scikit-learn), SQL, Dashboard Design (Tableau/Looker/PowerBI)
 
+### 📫 Let's Connect!
+I am actively seeking opportunities as a **Data Scientist** focused on **Product Analytics** or **Marketing Analytics**.
+
+- **LinkedIn:** [Raghuram Sirigiri](https://www.linkedin.com/in/raghuramsirigiri/)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raghuramsirigiri)](https://git.io/streak-stats)
